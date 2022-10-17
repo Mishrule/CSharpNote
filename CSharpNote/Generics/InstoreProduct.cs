@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpNote.Generics
 {
-	internal class InstoreProduct: Product
+	internal class InStoreProduct: Product
 	{
 		public int StoreId { get; set; }
 	}
